@@ -1,0 +1,12 @@
+to run
+./prefixer infix
+or
+./prefixer infix -r
+
+and the output will be set in prefix
+
+infix is the test-file, generated off the challenge description site
+the output file is always called prefix
+
+this solution was coded in python
+and tested on ubuntu linux

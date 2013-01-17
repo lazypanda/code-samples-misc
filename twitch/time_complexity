@@ -1,0 +1,3 @@
+Space complexity seems to be O(n) due to the 2 stacks sharing the input between them.
+
+Time complexity looks to be O(n^2), since it runs with an outer and inner loop. The outer loops runs through every operator and operand, thus n, and the inner loop deals with the operator and operand stacks, so some m <= n, thus in worst case, O(n^2)

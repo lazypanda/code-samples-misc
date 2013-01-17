@@ -1,0 +1,1 @@
+python infixToPrefix.py $1 $2
